@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,6 +26,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|c:\\users\\user-pc\\documents\\github\\prg281\\library\\library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|c:\\users\\user-pc\\documents\\github\\prg281\\library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|c:\\users\\user-pc\\documents\\github\\prg281\\library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|c:\\users\\user-pc\\documents\\github\\prg281\\library\\library\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +51,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 4,
+=======
+          "SelectedChildIndex": 1,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< Updated upstream
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Login.cs",
               "RelativeDocumentMoniker": "Library\\Login.cs",
@@ -70,12 +92,21 @@
               "ToolTip": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Reader.cs",
               "RelativeToolTip": "Library\\Reader.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAWAAAAAAAAAA==",
+=======
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Documents\\GitHub\\PRG281\\Library\\Library\\Reader.cs",
+              "RelativeDocumentMoniker": "Library\\Reader.cs",
+              "ToolTip": "C:\\Users\\User-PC\\Documents\\GitHub\\PRG281\\Library\\Library\\Reader.cs",
+              "RelativeToolTip": "Library\\Reader.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCcAAAAJAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T20:22:55.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 5,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Book.cs",
@@ -92,6 +123,37 @@
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Form1.cs",
+=======
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Documents\\GitHub\\PRG281\\Library\\Library\\Book.cs",
+              "RelativeDocumentMoniker": "Library\\Book.cs",
+              "ToolTip": "C:\\Users\\User-PC\\Documents\\GitHub\\PRG281\\Library\\Library\\Book.cs",
+              "RelativeToolTip": "Library\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:22:36.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Documents\\GitHub\\PRG281\\Library\\Library\\Form1.cs",
+              "RelativeDocumentMoniker": "Library\\Form1.cs",
+              "ToolTip": "C:\\Users\\User-PC\\Documents\\GitHub\\PRG281\\Library\\Library\\Form1.cs",
+              "RelativeToolTip": "Library\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:21:20.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Documents\\GitHub\\PRG281\\Library\\Library\\Form1.cs",
+>>>>>>> Stashed changes
               "RelativeDocumentMoniker": "Library\\Form1.cs",
               "ToolTip": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Form1.cs",
               "RelativeToolTip": "Library\\Form1.cs",

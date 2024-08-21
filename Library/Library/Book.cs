@@ -28,5 +28,17 @@ namespace Library
             this.Borrowed = _Borrowed;
             this.Genres = _Genres;
         }
+        
+        public bool borrowBook()
+        {
+            if (borrowed == true)
+            {
+                return false;
+            }else
+            {
+                GlobalData.
+            }
+            
+        }
     }
 }
