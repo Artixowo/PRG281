@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|c:\\users\\gideo\\documents\\github\\prg281\\library\\library\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|c:\\users\\gideo\\documents\\github\\prg281\\library\\library\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|c:\\users\\gideo\\documents\\github\\prg281\\library\\library\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|c:\\users\\gideo\\documents\\github\\prg281\\library\\library\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD7530-5C91-4A92-A48B-DD01503D97E7}|Library\\Library.csproj|solutionrelative:library\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,44 +34,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Login.cs",
+              "RelativeDocumentMoniker": "Library\\Login.cs",
+              "ToolTip": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Login.cs",
+              "RelativeToolTip": "Library\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:30:49.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Login.cs",
+              "RelativeDocumentMoniker": "Library\\Login.cs",
+              "ToolTip": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Login.cs [Design]",
+              "RelativeToolTip": "Library\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:26:35.696Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Reader.cs",
               "DocumentMoniker": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Reader.cs",
               "RelativeDocumentMoniker": "Library\\Reader.cs",
               "ToolTip": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Reader.cs",
               "RelativeToolTip": "Library\\Reader.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T20:22:55.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Book.cs",
               "RelativeDocumentMoniker": "Library\\Book.cs",
               "ToolTip": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Book.cs",
               "RelativeToolTip": "Library\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T20:22:36.779Z"
+              "WhenOpened": "2024-08-20T20:22:36.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Form1.cs",
               "RelativeDocumentMoniker": "Library\\Form1.cs",
               "ToolTip": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Form1.cs",
               "RelativeToolTip": "Library\\Form1.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T20:21:20.658Z"
+              "WhenOpened": "2024-08-20T20:21:20.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -74,7 +109,8 @@
               "ToolTip": "C:\\Users\\gideo\\Documents\\GitHub\\PRG281\\Library\\Library\\Form1.cs [Design]",
               "RelativeToolTip": "Library\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T20:21:12.294Z"
+              "WhenOpened": "2024-08-20T20:21:12.294Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

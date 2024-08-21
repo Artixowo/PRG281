@@ -11,6 +11,7 @@ namespace Library
         private string id;
         private string name;
         private List<Book> books;
+        private static List<Reader> allReaders = new List<Reader>();
 
 
         public string ID
@@ -31,13 +32,16 @@ namespace Library
             set { books = value; }
         }
 
-
+        public static List<Reader> AllReaders
+        {
+            get { return allReaders; }
+        }
         public Reader(string id, string name)
         {
             this.id = id;
             this.name = name;
             this.books = new List<Book>();
+            allReaders.Add(this);
         }
-        //balls
     }
 }
